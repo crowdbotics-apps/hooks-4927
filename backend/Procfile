@@ -1,0 +1,1 @@
+web: waitress-serve --port=$PORT hooks_4927.wsgi:application
